@@ -1,6 +1,6 @@
 ﻿{
 	"Settings": {
-		"ConnectionString": "Server=localhost;Port=9000;User Id=postgres;Password=erp;Database=reendocs;Pooling=true;MinPoolSize=1;MaxPoolSize=100;CommandTimeout=120;",
+		"ConnectionString": "Server=ec2-54-157-160-218.compute-1.amazonaws.com;Port=5432;User Id=iuuarohnbdjizi;Password=b5215993c57afc45491a0641211e4ac61c9517299b464cf5ebc4f76bc89c57a1;Database=dd52hkrt0jce4b;Pooling=true;MinPoolSize=1;MaxPoolSize=100;CommandTimeout=120;",
 		"EncryptionKey": "BC93B776A42877CFEE808823BA8B37C83B6B0AD23198AC3AF2B5A54DCB647658",
 		"Lang": "en",
 		"Locale": "en-US",
